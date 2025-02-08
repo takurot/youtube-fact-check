@@ -23,11 +23,15 @@
 
 必要な Python ライブラリをインストールします：
 
+```
 pip install requests youtube-transcript-api openai
+```
 
 ## 実行方法
 
+```
 python youtube-fact-check.py <YouTube URL>
+```
 
 ## スクリプトの機能
 
