@@ -25,7 +25,9 @@
 
 pip install requests youtube-transcript-api openai
 
-usage:python youtube-fact-check.py <YouTube URL>
+## 実行方法
+
+python youtube-fact-check.py <YouTube URL>
 
 ## スクリプトの機能
 
